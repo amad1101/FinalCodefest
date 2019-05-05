@@ -51,6 +51,9 @@ h2 {
   margin: 0 auto; 
   padding-bottom: 1rem;
 }
+h4 {
+  color: white;
+}
 p {
   color: white;
   text-align: left;

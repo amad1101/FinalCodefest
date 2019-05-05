@@ -22,7 +22,7 @@
 
 
           </b-card-text>
-          <router-link :to="`/${propF}`" tag="b-button" >foo</router-link>
+          <router-link :to="`/${propF}`" tag="b-button" >Choose</router-link>
           <!-- <b-button href="#" variant="primary">{{ context }}</b-button> -->
         </b-card>
       </div>
