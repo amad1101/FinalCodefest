@@ -1,0 +1,44 @@
+<template>
+  <div class="home">
+     <h1 id="title" >Alpha Trail</h1>
+      <div class="hr"></div>
+    <p>Imagine how your life would differ if one day your financial security changed. What would losing a job, having a death in the family, or earning a promotion mean? What if losing a day’s pay is the difference between having food or going hungry for a week? </p>
+    <p>Life is a series of choices — some influenced by our decisions, and others determined by forces outside of our control.</p>
+    <p> Enter the Alpha Trail and explore a world outside your own. Find out how financial instability will influence you and the choices you make to life’s changing circumstances. </p>
+
+    <b-container id='maincol'>
+      <b-row>
+        <b-col class="align-self-center">Justo ornare class facilisis orci ipsum vitae efficitur cubilia natoque Ex inceptos aliquet ultricies lacinia massa ullamcorper molestie gravida bibendum porta potenti urna sodales aptent phasellus fringilla nibh iaculis laoreet morbi vestibulum justo ornare class facilisis orci ipsum vitae efficitur cubilia natoque nisl est quis netus dolor luctus scelerisque torquent sollicitudin platea nisi ut arcu eros odio venenatis duis interdum mi montes metus lectus volutpat habitasse commodo velit ante augue eget felis imperdiet tellus maximus ultrices eleifend dictumst dictum et nullam
+        </b-col>
+        <b-col md='8'> <img class='img-thumbnail' src='../assets/philadelphia2.jpg' /> </b-col>
+
+      </b-row>
+    </b-container>
+
+    <p>How we built it: </p>
+    <p> Netus molestie erat libero sociosqu per in finibus dis diam litora nascetur ac faucibus vivamus donec nostra sem leo luctus aliquam rutrum massa lobortis torquent ante aptent vitae curabitur sodales fringilla lorem nibh odio felis praesent morbi cras turpis varius sagittis nisl cursus curae himenaeos gravida natoque primis purus placerat.
+    </p>
+    <p>Integer non aptent efficitur dui facilisi eget bibendum arcu cras ligula nullam aenean elit praesent enim feugiat platea quisque molestie risus natoque malesuada odio ipsum semper cursus vulputate felis sodales lobortis ac nibh fames rutrum quis sed ut at diam taciti a nulla adipiscing pharetra tempor mus tellus sit magnis.</p>
+    <p>Massa netus consectetur dictum dictumst aliquam velit ad quam scelerisque tristique libero fusce mus auctor sociosqu duis urna condimentum vitae sodales neque sit rhoncus mi gravida penatibus feugiat magnis nisl faucibus volutpat eget aliquet lorem nullam porta tempor metus suscipit sed etiam mattis elementum eu litora </p>
+    <p>Interdum id pretium arcu turpis nam erat bibendum ligula curabitur morbi commodo finibus aptent proin maecenas fermentum hendrerit placerat ante nisi sagittis quisque fringilla primis leo semper tellus laoreet risus amet inceptos at aenean tincidunt posuere nulla congue mauris nec consequat sollicitudin facilisis nunc eros rutrum tempus vehicula lacinia pharetra vivamus vulputate cursus adipiscing dis nibh donec in ut facilisi ipsum ac ornare est magna dignissim euismod felis tortor mollis lectus parturient </p>
+    <p>Senectus integer porttitor accumsan quis iaculis nascetur vel diam cras maximus montes nostra a luctus elit conubia convallis justo platea efficitur purus blandit phasellus lobortis sem dapibus egestas eleifend lacus torquent fames sapien class augue praesent hac pulvinar orci viverra imperdiet dolor molestie venenatis ultrices malesuada curae taciti suspendisse per natoque ullamcorper et potenti dui odio habitasse varius ridiculus pellentesque non habitant enim ex vestibulum himenaeos cubilia ultricies ac conubia platea habitasse posuere convallis sed adipiscing sodales placerat iaculis eleifend porttitor luctus </p>
+
+    <img alt= 'oregeon dead end' src='../assets/oregon-deadend.jpg' />
+  </div>
+</template>
+
+<script>
+// @ is an alias to /src
+// import HelloWorld from '@/components/HelloWorld.vue'
+
+export default {
+  name: 'home'
+  // components: {
+  //   HelloWorld
+  // }
+}
+</script>
+
+<style lang="scss" scoped>
+
+</style>
