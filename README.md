@@ -38,4 +38,4 @@ graphql
 aws-lambda
 amazon-dynamodb
 # Try it out
-[AlphaTrail](alphatrail.me)
+[AlphaTrail](www.alphatrail.me)
